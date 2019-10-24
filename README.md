@@ -15,4 +15,4 @@ yarn start
 yarn build
 
 
-![image](https://github.com/Hz-Raigor/picture/blob/master/1571898061.jpg?raw=true)
+![image](https://github.com/Hz-Raigor/picture/blob/master/1571898061.jpg)
