@@ -12,14 +12,16 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 安装依赖
 yarn
 
-# serve with hot reload at localhost:8080
+# 运行
 yarn serve
 
-# build for production with minification
+# 打包
 yarn build
 
 图片说明
-<img src="https://github.com/Hz-Raigor/transfer-element/blob/master/uploadFiles/transfer.jpg"/>
+<div>
+<img src="https://github.com/Hz-Raigor/transfer-element/blob/master/uploadFiles/transfer.jpg" width="150" height="250"  alt=""/>
+</div>
